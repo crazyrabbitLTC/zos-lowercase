@@ -1,5 +1,9 @@
 pragma solidity ^0.4.11;
 
+//Original code here: https://gist.github.com/ottodevs/c43d0a8b4b891ac2da675f825b1d1dbf
+//Original Author OttoDevs
+//Modified for EVM package by Dennison Bertram
+
 contract StringToLower {
 
     uint256 public _usageCount;
